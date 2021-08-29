@@ -1,0 +1,2 @@
+Datasets    SEN     SPE    MCC   ACC   AUC
+KNN  0.668 0.703 0.372 0.686 0.755

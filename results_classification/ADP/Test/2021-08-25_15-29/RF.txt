@@ -1,0 +1,2 @@
+model    SEN     SPE    MCC   ACC   AUC
+RF  0.735 0.647 0.384 0.691 0.747

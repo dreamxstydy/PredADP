@@ -1,0 +1,2 @@
+model    SEN     SPE    MCC   ACC   AUC
+KNN  0.676 0.627 0.304 0.652 0.715

@@ -1,0 +1,2 @@
+Stop parsing arguments list. Left off at -
+You have specified parameters: no discretization, #fea=6 selection method=MID #maxVar=10000 #maxSample=2000
